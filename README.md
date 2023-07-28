@@ -1,3 +1,3 @@
 # Twich
-Integración de API twich utilizada en postman y combinada con este repositorio de pycharm para descargar automaticamente los últimos videos con más vistas. 
-Código e integración creada para proyecto de Marketing
+Bot de API twich utilizada en postman y combinada código realizado en pycharm, sirve para descargar automaticamente los últimos videos con más vistas de los stremer. 
+Código e integración creada para proyecto de Marketing.
